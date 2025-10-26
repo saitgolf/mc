@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6a1230c4fa88414b986947fe8e307e88"
+	name: "ae#6a1230c4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

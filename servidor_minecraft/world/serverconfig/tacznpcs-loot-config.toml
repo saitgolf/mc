@@ -1,0 +1,5 @@
+
+["Loot Table Compatiblity"]
+	#(TACZ by default, true is TACZ false is VPB loot tables)
+	"VPB or TACZ?" = true
+

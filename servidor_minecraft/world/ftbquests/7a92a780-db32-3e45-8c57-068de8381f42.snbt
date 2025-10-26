@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7a92a780db323e458c57068de8381f42"
+	name: "yuuchan6756#7a92a780"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "7a92a780-db32-3e45-8c57-068de8381f42"
+	type: "player"
+	player_name: "yuuchan6756"
+	ranks: {
+		7a92a780-db32-3e45-8c57-068de8381f42: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "yuuchan6756"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

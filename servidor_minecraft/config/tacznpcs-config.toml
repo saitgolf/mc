@@ -1,0 +1,18 @@
+
+["Pistol Damages"]
+	#How much damage pistol scavs do, this is multiplied by the power
+	"Pistol Damage" = 1.0
+
+["Rifle Damages"]
+	#Damage rifle scavs do, multiplied by the power
+	"Rifle Damage" = 1.5
+
+[Health]
+	#Health of neutral pistol scavs
+	"Neutral Pistol Scav Health" = 20.0
+	#Health of neutral rifle scavs
+	"Neutral Rifle Scav Health" = 20.0
+	#Health of bandit pistol scavs
+	"Bandit Pistol Scav Health" = 20.0
+	"Bandit Rifle Scav Health" = 20.0
+

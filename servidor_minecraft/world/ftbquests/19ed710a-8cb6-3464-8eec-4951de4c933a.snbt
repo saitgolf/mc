@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "19ed710a8cb634648eec4951de4c933a"
+	name: "saitgolf#19ed710a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
